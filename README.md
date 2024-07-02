@@ -24,5 +24,5 @@ React - A JavaScript library for building user interfaces. CSS - Styling the com
 ## Acknowledgments
 Inspired by ConnectWise interview assignment. Special thanks to the React community.
 
-## Diploy Link 
+## Deploy Link 
 https://connectwise-assignment.netlify.app/
